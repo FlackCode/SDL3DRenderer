@@ -1,2 +1,11 @@
-﻿  main.cpp
+﻿  Renderer3D.cpp
+C:\Users\flack\source\repos\SDLTest\Renderer3D.cpp(25,60): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\flack\source\repos\SDLTest\Renderer3D.cpp(25,53): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\flack\source\repos\SDLTest\Renderer3D.cpp(25,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\flack\source\repos\SDLTest\Renderer3D.cpp(25,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\flack\source\repos\SDLTest\Renderer3D.cpp(31,28): warning C4244: '=': conversion from '_Rep' to 'float', possible loss of data
+C:\Users\flack\source\repos\SDLTest\Renderer3D.cpp(31,28): warning C4244:         with
+C:\Users\flack\source\repos\SDLTest\Renderer3D.cpp(31,28): warning C4244:         [
+C:\Users\flack\source\repos\SDLTest\Renderer3D.cpp(31,28): warning C4244:             _Rep=double
+C:\Users\flack\source\repos\SDLTest\Renderer3D.cpp(31,28): warning C4244:         ]
   SDLTest.vcxproj -> C:\Users\flack\source\repos\SDLTest\x64\Debug\SDLTest.exe

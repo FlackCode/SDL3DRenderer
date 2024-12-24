@@ -18,7 +18,7 @@ private:
 	Point2D projection(Point3D point);
 
 	float rotation = 0.0f;
-	float FOV = 10.0;
+	float FOV = 100.0f;
 	float DeltaTime = 0.0f;
 
 	int WindowSizeX;
